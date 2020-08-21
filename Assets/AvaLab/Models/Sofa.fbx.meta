@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 8543a79800732734a9d28d51fd8bd5f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Leather
+    100002: Legs_End
+    100004: Legs_End_2
+    100006: Legs_End_3
+    100008: Legs_End_4
+    100010: Plastic
+    100012: //RootNode
+    100014: Sofa_Seats_And_Back
+    100016: Sofa_Seats_And_Back_10
+    100018: Sofa_Seats_And_Back_11
+    100020: Sofa_Seats_And_Back_2
+    100022: Sofa_Seats_And_Back_3
+    100024: Sofa_Seats_And_Back_4
+    100026: Sofa_Seats_And_Back_5
+    100028: Sofa_Seats_And_Back_6
+    100030: Sofa_Seats_And_Back_7
+    100032: Sofa_Seats_And_Back_8
+    100034: Sofa_Seats_And_Back_9
+    100036: Steel
+    100038: Steel_Legs
+    100040: Steel_Legs_2
+    100042: Steel_Legs_3
+    100044: Steel_Legs_4
+    400000: Leather
+    400002: Legs_End
+    400004: Legs_End_2
+    400006: Legs_End_3
+    400008: Legs_End_4
+    400010: Plastic
+    400012: //RootNode
+    400014: Sofa_Seats_And_Back
+    400016: Sofa_Seats_And_Back_10
+    400018: Sofa_Seats_And_Back_11
+    400020: Sofa_Seats_And_Back_2
+    400022: Sofa_Seats_And_Back_3
+    400024: Sofa_Seats_And_Back_4
+    400026: Sofa_Seats_And_Back_5
+    400028: Sofa_Seats_And_Back_6
+    400030: Sofa_Seats_And_Back_7
+    400032: Sofa_Seats_And_Back_8
+    400034: Sofa_Seats_And_Back_9
+    400036: Steel
+    400038: Steel_Legs
+    400040: Steel_Legs_2
+    400042: Steel_Legs_3
+    400044: Steel_Legs_4
+    2100000: Material_1
+    2300000: Legs_End
+    2300002: Legs_End_2
+    2300004: Legs_End_3
+    2300006: Legs_End_4
+    2300008: Sofa_Seats_And_Back
+    2300010: Sofa_Seats_And_Back_10
+    2300012: Sofa_Seats_And_Back_11
+    2300014: Sofa_Seats_And_Back_2
+    2300016: Sofa_Seats_And_Back_3
+    2300018: Sofa_Seats_And_Back_4
+    2300020: Sofa_Seats_And_Back_5
+    2300022: Sofa_Seats_And_Back_6
+    2300024: Sofa_Seats_And_Back_7
+    2300026: Sofa_Seats_And_Back_8
+    2300028: Sofa_Seats_And_Back_9
+    2300030: Steel_Legs
+    2300032: Steel_Legs_2
+    2300034: Steel_Legs_3
+    2300036: Steel_Legs_4
+    3300000: Legs_End
+    3300002: Legs_End_2
+    3300004: Legs_End_3
+    3300006: Legs_End_4
+    3300008: Sofa_Seats_And_Back
+    3300010: Sofa_Seats_And_Back_10
+    3300012: Sofa_Seats_And_Back_11
+    3300014: Sofa_Seats_And_Back_2
+    3300016: Sofa_Seats_And_Back_3
+    3300018: Sofa_Seats_And_Back_4
+    3300020: Sofa_Seats_And_Back_5
+    3300022: Sofa_Seats_And_Back_6
+    3300024: Sofa_Seats_And_Back_7
+    3300026: Sofa_Seats_And_Back_8
+    3300028: Sofa_Seats_And_Back_9
+    3300030: Steel_Legs
+    3300032: Steel_Legs_2
+    3300034: Steel_Legs_3
+    3300036: Steel_Legs_4
+    4300000: Legs_End
+    4300002: Legs_End_2
+    4300004: Legs_End_3
+    4300006: Legs_End_4
+    4300008: Sofa_Seats_And_Back
+    4300010: Sofa_Seats_And_Back_2
+    4300012: Sofa_Seats_And_Back_3
+    4300014: Sofa_Seats_And_Back_4
+    4300016: Sofa_Seats_And_Back_5
+    4300018: Sofa_Seats_And_Back_6
+    4300020: Sofa_Seats_And_Back_7
+    4300022: Sofa_Seats_And_Back_8
+    4300024: Sofa_Seats_And_Back_9
+    4300026: Sofa_Seats_And_Back_10
+    4300028: Sofa_Seats_And_Back_11
+    4300030: Steel_Legs
+    4300032: Steel_Legs_2
+    4300034: Steel_Legs_3
+    4300036: Steel_Legs_4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
