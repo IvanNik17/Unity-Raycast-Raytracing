@@ -1,0 +1,2 @@
+# Unity-Raycast-Raytracing
+A prototype unity application for testing if raycasts can be used to calculate a raytracing path from a light source to a 3D reconstructed object. The light source in the Unity environment is positioned and rotated the same way as the real world equivalent. This method can be used to see if parts of the object have not received not enough light, which would result in a Structure from Motion reconstruction with noise and geometrical defects.
